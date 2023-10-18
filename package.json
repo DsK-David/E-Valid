@@ -1,0 +1,14 @@
+{
+  "name": "e-valid",
+  "version": "1.1.0",
+  "description": "um programa para validar email facilmente",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "emailvalidator"
+  ],
+  "author": "David Silva",
+  "license": "MIT"
+}
