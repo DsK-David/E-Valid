@@ -9,7 +9,7 @@ Este é um simples validador de e-mails em JavaScript que utiliza um padrão de 
 Antes de usar o E-Valid, certifique-se de ter o Node.js e o npm instalados em sua máquina.
 
 ```bash
-npm install E-Valid
+npm install e-valid
 ```
 
 ### Exemplo de Uso
