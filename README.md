@@ -34,6 +34,10 @@ A função `EValid` aceita uma string contendo um endereço de e-mail e retorna 
 const emailValido = EValid('usuario@dominio.com');
 console.log(emailValido);  // Saída: true
 ```
+```javascript
+const emailValido = EValid('usuario.dominio.com');
+console.log(emailValido);  // Saída: false
+```
 
 ## Contribuição
 
